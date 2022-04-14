@@ -18,19 +18,6 @@ The idea behind this project is to predict a person's HeartDisease condition bas
 
 ## Technologies
 This code was written on `Python v3.8.10`. A `requuirements.txt` file has been provided to setup and re-run the project again with all of it's dependencies.
-* Firstly, setup a virtual environment. There are a number of methods to do so, but we will be using `virtualenv`
-
-```
-virtualenv venv
-```
-* Activate the newly created virtual environment.
-```
-source venv/bin/activate
-```
-* Install the project dependencies
-```
-pip install -r requirements.txt
-```
 
 ## Libraries Used
 * numpy
