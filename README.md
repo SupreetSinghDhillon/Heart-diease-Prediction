@@ -62,8 +62,11 @@ This code was written on `Python v3.8.10`. A `requuirements.txt` file has been p
     * Feature Scaling
     * Run vaious machine learning models and log and plot results.
 
+5) Run `04. Machine Learning - Tuned Models.ipynb`
+    * Run the previous machine learning models but with tuned parameters using GridSearchCV
+
 ## Status
-Project is:  _Not finished_
+Project is:  _Finished_
 
 ## Based on
 Project based on Computational Data Science
