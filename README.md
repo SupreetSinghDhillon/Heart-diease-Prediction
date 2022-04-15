@@ -10,6 +10,7 @@ In this project, we predict a user's heart failure probability based on a certai
 * [Features](#features)
 * [Order Of Execution](#order-of-execution)
 * [Status](#status)
+* [Note](#note)
 * [Based On](#based-on)
 * [Created By](#created-by)
 
@@ -67,6 +68,9 @@ This code was written on `Python v3.8.10`. A `requuirements.txt` file has been p
 
 ## Status
 Project is:  _Finished_
+
+## Note
+Github is at times unable to render Jupyter notebooks completely and thus some of the plots might be missing or buggy. Thus, we've converter all of them to HTML and added to the `HTML` folder.
 
 ## Based on
 Project based on Computational Data Science
